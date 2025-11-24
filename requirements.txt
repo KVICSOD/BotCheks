@@ -1,0 +1,6 @@
+aiogram
+aiosqlite
+openpyxl
+Pillow
+python-dotenv
+google-generativeai
